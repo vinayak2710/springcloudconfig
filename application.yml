@@ -34,7 +34,7 @@ spring:
   datasource:
     platform: 
     url: jdbc:postgresql://localhost:5432/mydb
-    username:postgres 
+    username: postgres 
     password: vinvashishta
   jpa:
    show-sql: true
