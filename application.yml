@@ -34,8 +34,8 @@ spring:
   datasource:
     platform: 
     url: jdbc:postgresql://localhost:5432/mydb
-    username: 
-    password: 
+    username:postgres 
+    password: vinvashishta
   jpa:
    show-sql: true
    hibernate.ddl-auto: update
